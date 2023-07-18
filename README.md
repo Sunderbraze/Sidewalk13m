@@ -2,7 +2,8 @@
 Simple mod for 7 Days to Die that adds the "Plate Round 13" series to the shape menu. Built for Alpha 21 b324.
 
 ## Installation
-- Extract the contents of this mod and place it in %APPDATA%/7DaysToDie/Mods/Sidewalk13m
+- Download the mod by clicking Code -> Download Zip in the top-right corner of the Github page
+- Extract the folder Sidewalk13m-main from the Zip file and place it in %APPDATA%/7DaysToDie/Mods
 - You might need to create the Mods subfolder if you haven't added other mods yet
 
 ## Purpose
