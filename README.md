@@ -1,6 +1,10 @@
 # Sidewalk13m
 Simple mod for 7 Days to Die that adds the "Plate Round 13" series to the shape menu. Built for Alpha 21 b324.
 
+## Installation
+- Extract the contents of this mod and place it in %APPDATA%/7DaysToDie/Mods/Sidewalk13m
+- You might need to create the Mods subfolder if you haven't added other mods yet
+
 ## Purpose
 As of Alpha 21 b324, the "Plate Round 13" blocks (used to create the residential cul de sac sidewalk) are impossible for players to access outside of level editor prefabs. The devs added a note "Hidden due to block set complexity" next to the code that hides these blocks from the creative menu, which must mean they think we're too stupid to use these blocks properly (lol) or more likely they haven't organized them in a sensible manner and created icons for them yet. Either way, I have wanted to use these blocks ever since I took a closer look at the cul de sac sidewalks, so here we have it.
 
