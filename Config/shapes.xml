@@ -1,0 +1,534 @@
+<configs>
+	
+	<append xpath="/shapes">
+		
+		<shape name="shapePlateRound13mLeft01">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left01"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft02">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left02"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft03">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left03"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft04">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left04"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft05">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left05"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft06">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left06"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft07">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left07"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft08">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left08"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft09">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left09"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft10">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left10"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft11">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left11"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft12">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left12"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft13">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left13"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft14">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left14"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft15">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left15"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft16">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left16"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft17">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left17"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft18">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left18"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft19">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left19"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft20">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left20"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mLeft21">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_left21"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke01" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mCenter01">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_center01"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke02" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mCenter02">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_center02"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke02" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		<shape name="shapePlateRound13mRight01">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right01"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight02">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right02"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight03">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right03"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight04">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right04"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight05">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right05"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight06">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right06"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight07">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right07"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight08">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right08"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight09">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right09"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight10">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right10"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight11">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right11"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight12">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right12"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight13">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right13"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight14">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right14"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight15">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right15"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight16">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right16"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight17">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right17"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight18">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right18"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight19">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right19"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight20">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right20"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+		<shape name="shapePlateRound13mRight21">
+			<!-- <property name="Path" value="solid" /> -->
+			<property name="Model" value="plate_round_13m_right21"/>
+			<property name="CustomIcon" value="shapePlateSidewalkBroke03" />
+			<property name="ShapeCategories" value="Deco" />
+			<property name="Collide" value="movement,melee,bullet,arrow,rocket" />
+			<property name="UseGlobalUV" value="L,L,D,D,D,D"/>
+			<property name="ImposterExchange" value="imposterPlateLOD" param1="2"/>
+			<property name="MaterialHitpointMultiplier" value="0.1" />
+			<property name="WaterFlow" value="permitted" />
+		</shape>
+		
+	</append>
+	
+</configs>
